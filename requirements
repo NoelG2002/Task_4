@@ -1,0 +1,2 @@
+Objective: Detect age and emotion of moviegoers, marking those outside the age range with a "Not allowed" message, and save the results to a CSV file.
+Key Requirements: TensorFlow for age/emotion prediction, OpenCV for face detection, Pandas for data storage, and NumPy for preprocessing.
